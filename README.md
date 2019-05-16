@@ -12,6 +12,7 @@ The article was based on a range of analysis, including combining ONS data with 
 * BBC: [2019 European elections: List of candidates](https://www.bbc.co.uk/news/uk-politics-48081172)
 * ONS: [Employee earnings in the UK: 2018](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/annualsurveyofhoursandearnings/2018)
 * European Parliament: [Turnout and gender factsheet (PDF)](https://www.europarl.europa.eu/RegData/etudes/BRIE/2018/614733/EPRS_BRI(2018)614733_EN.pdf)
+* CSV: [UK MEP Twitter accounts](https://github.com/BBC-Data-Unit/eu-elections-2019/blob/master/ukmepaccounts.csv)
 
 ## Quotes and interviews
 
@@ -30,4 +31,5 @@ The article was based on a range of analysis, including combining ONS data with 
 ## Code and scripts
 
 * [Twitter scraper](https://github.com/BBC-Data-Unit/eu-elections-2019/blob/master/meptwitterscraper.py): the first part collects accounts from a list; the second part scrapes the most recent 3,300 tweets by each account on a list
-* 
+* [R Markdown: analysing MEP tweets](https://github.com/BBC-Data-Unit/eu-elections-2019/blob/master/meptweets.Rmd)
+* [Shell script: generating a word count from a text file](https://github.com/BBC-Data-Unit/eu-elections-2019/blob/master/wordfreq.sh) (unused). *Note: the text file is created by changing the .csv extension to .txt*
