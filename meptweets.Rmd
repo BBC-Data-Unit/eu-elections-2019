@@ -366,3 +366,13 @@ wordfreq1 <- sqldf::sqldf('SELECT wordnopunc, LEFTSTR(wordnopunc, 1) as firstcha
 
 print(wordfreq1)
 ```
+
+## Exporting this R Markdown file as pure R
+
+The following line converts this Rmd file into an R file, with all the narrative rendered as comments.
+
+```{r}
+#See https://www.garrickadenbuie.com/blog/convert-r-markdown-rmd-files-to-r-scripts/
+knitr::purl("meptweets.Rmd", "meptweets.R", documentation = 2)
+```
+
