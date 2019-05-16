@@ -17,9 +17,13 @@ The article was based on a range of analysis, including combining ONS data with 
 * European Parliament: [Turnout and gender factsheet (PDF)](https://www.europarl.europa.eu/RegData/etudes/BRIE/2018/614733/EPRS_BRI(2018)614733_EN.pdf)
 * CSV: [Turnout by country](https://github.com/BBC-Data-Unit/eu-elections-2019/blob/master/mepturnout.csv)
 * CSV: [Female MEPs by country](https://github.com/BBC-Data-Unit/eu-elections-2019/blob/master/femalemeps.csv)
+* Spreadsheet: [MP names' gender - API results, analysis and checking](https://github.com/BBC-Data-Unit/eu-elections-2019/blob/master/candidatesnamesGENDEREDapi.xlsx)
+* Spreadsheet: [Checking numbers of candidates by party and region](https://github.com/BBC-Data-Unit/eu-elections-2019/blob/master/candidates%20check.xlsx)
 * CSV: [UK MEP Twitter accounts](https://github.com/BBC-Data-Unit/eu-elections-2019/blob/master/ukmepaccounts.csv)
 * CSV: [Word frequency comparison, lower case versus original case](https://github.com/BBC-Data-Unit/eu-elections-2019/blob/master/wordfrequpperandlower.csv) - this was used to check whether terms like 'EU' and 'UK' were from URLs or being used in reference to geography
 * Two datasets - 180,001 scraped tweets, and a dataset of all tweets by MEPs in the ast 12 months - are too large to include here
+* Spreadsheet: [analysis of election spending data from Electoral Commission (not used in the final story)](https://github.com/BBC-Data-Unit/eu-elections-2019/blob/master/Euro%20Campaign%20Spending%20last3.xlsx)
+* CSV: [Donations during 2014 European election period](https://github.com/BBC-Data-Unit/eu-elections-2019/blob/master/donations%20during%20euro%202014%20period.csv) (unused, as it is not possible to distinguish between donations for EU or other elections)
 
 ## Quotes and interviews
 
