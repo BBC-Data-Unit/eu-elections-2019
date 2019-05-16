@@ -29,3 +29,5 @@ The article was based on a range of analysis, including combining ONS data with 
 
 ## Code and scripts
 
+* [Twitter scraper](https://github.com/BBC-Data-Unit/eu-elections-2019/blob/master/meptwitterscraper.py): the first part collects accounts from a list; the second part scrapes the most recent 3,300 tweets by each account on a list
+* 
