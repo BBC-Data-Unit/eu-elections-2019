@@ -10,9 +10,13 @@ The article was based on a range of analysis, including combining ONS data with 
 
 * European Parliament: [Salaries and pensions](https://www.europarl.europa.eu/news/en/faq/13/salaries-and-pensions); [European elections: What pay can UK MEPs expect?](https://www.bbc.co.uk/news/uk-politics-48037162)
 * BBC: [2019 European elections: List of candidates](https://www.bbc.co.uk/news/uk-politics-48081172)
+* Spreadsheet: [MEPs standing and not standing](https://github.com/BBC-Data-Unit/eu-elections-2019/blob/master/MEPS%20STANDING%20NOT%20STANDING%20CHECKED.xlsx)
 * ONS: [Employee earnings in the UK: 2018](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/annualsurveyofhoursandearnings/2018)
+* Spreadsheet: [Matching earnings by region against MP salaries](https://github.com/BBC-Data-Unit/eu-elections-2019/blob/master/DATA%20FOR%20CHARTS.xlsx)
 * European Parliament: [Turnout and gender factsheet (PDF)](https://www.europarl.europa.eu/RegData/etudes/BRIE/2018/614733/EPRS_BRI(2018)614733_EN.pdf)
 * CSV: [UK MEP Twitter accounts](https://github.com/BBC-Data-Unit/eu-elections-2019/blob/master/ukmepaccounts.csv)
+* CSV: [Word frequency comparison, lower case versus original case](https://github.com/BBC-Data-Unit/eu-elections-2019/blob/master/wordfrequpperandlower.csv) - this was used to check whether terms like 'EU' and 'UK' were from URLs or being used in reference to geography
+* Two datasets - 180,001 scraped tweets, and a dataset of all tweets by MEPs in the ast 12 months - are too large to include here
 
 ## Quotes and interviews
 
