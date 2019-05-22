@@ -34,7 +34,7 @@ The article was based on a range of analysis, including combining ONS data with 
 
 * Table: Number of parties standing vs number of seats for each region
 * Table: MEPs standing down by region
-* Lollipop chart: MEPs' pay compared with regional averages
+* Bar chart: MEPs' pay compared with regional averages
 * Bar chart: Most common words tweeted by UK MEPs
 * Bar chart: Percentage of MEPs that are female by member state
 * Bar chart: Turnout in European elections 2014 by member state
