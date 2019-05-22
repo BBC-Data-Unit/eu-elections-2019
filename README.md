@@ -1,6 +1,6 @@
 # 2019 European elections: How many new MEPs might you get?
 
-![](https://ichef.bbci.co.uk/news/624/cpsprodpb/8854/production/_106900943_meppay-nc.png)
+![](https://ichef.bbci.co.uk/news/624/cpsprodpb/4249/production/_106996961_meppay2-nc.png)
 
 In May 2019 we [published an analysis of data relating to the upcoming EU elections](https://www.bbc.co.uk/news/uk-england-48202795), "some facts and figures about the choice voters have about who represents them in Brussels and Strasbourg."
 
